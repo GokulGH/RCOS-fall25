@@ -1,7 +1,10 @@
 # RCOS-fall25
 git tutorial
 
--Gokul Sureshbabu
--![Alt text](IMG_2022.PNG)
--2028
--Working on HackRPI website
+-Name: Gokul Sureshbabu
+-Grad year: 2028
+-Project: Working on HackRPI website
+
+
+
+-image:![Alt text](IMG_2022.PNG)
